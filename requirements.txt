@@ -4,8 +4,11 @@ jupyterlab
 # Core data handling
 numpy
 pandas
+matplotlib
+seaborn
 
 # Audio processing — the most important for this task
 librosa          # feature extraction (MFCC, spectrograms, chroma, etc.)
 soundfile        # reading/writing .wav files
 audioread        # audio decoding backend for librosa
+av               # Python decoder backend for .webm/.ogg without system ffmpeg binary
