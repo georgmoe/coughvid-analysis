@@ -9,6 +9,9 @@ __pycache__/
 # Data files
 COUGHVIDdataset/
 preprocessed_audio/
+normalized_audio/
+trimmed_and_filtered_audio/
+filtered_audio/
 
 # Distribution / packaging
 .Python
