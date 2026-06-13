@@ -12,9 +12,12 @@ librosa          # feature extraction (MFCC, spectrograms, chroma, etc.)
 soundfile        # reading/writing .wav files
 audioread        # audio decoding backend for librosa
 av               # Python decoder backend for .webm/.ogg without system ffmpeg binary
+ffmpeg-python
 
 # Machine learning
 scikit-learn     # SVM, Random Forest, train/test split, metrics
 torch            # deep learning framework (optional, for more advanced models)
 lime             # local explanations for tabular models#
 shap             # SHAP values for feature importance and explanations
+imbalanced-learn
+scipy

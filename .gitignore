@@ -12,6 +12,10 @@ preprocessed_audio/
 normalized_audio/
 trimmed_and_filtered_audio/
 filtered_audio/
+preprocessed_audio_backup/
+normalized_audio_backup/
+trimmed_and_filtered_audio_backup/
+filtered_audio_backup/
 
 # Distribution / packaging
 .Python
